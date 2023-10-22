@@ -42,5 +42,11 @@
 
 <h3 align="left">IoT:</h3>
 <p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.sparkfun.com/assets/5/3/4/3/1/52b1e48a757b7f28448b4567.png" alt="fritzing" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mqtt/mqttorg-graphics/blob/master/svg/mqtt-icon-solid.svg" alt="mqtt" width="40" height="40"/> </a> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<a href="https://fritzing.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.sparkfun.com/assets/5/3/4/3/1/52b1e48a757b7f28448b4567.png" alt="fritzing" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/mqtt/mqttorg-graphics/blob/master/svg/mqtt-icon-solid.svg" alt="mqtt" width="40" height="40"/> </a> </a> 
+<a href="https://mqtt-explorer.com/" target="_blank" rel="noreferrer"> <img src="mqtt%20explorer.png" alt="mqtt explorer" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a> 
 </p>
