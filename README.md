@@ -34,7 +34,7 @@
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.tinkercad.com" target="_blank" rel="noreferrer"> <img src="tinkercad-1.svg" alt="tinkercad" width="40" height="40"/> </a> 
 <a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="images/xd.png" alt="xd" width="40" height="40"/> </a> 
 <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="60" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="60" height="40"/> </a> 
@@ -57,4 +57,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a> 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ros2" width="40" height="40"/> </a> 
+ <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="images/gzsim.png" alt="gzsim" width="40" height="40"/> </a> 
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="images/rviz.png" alt="rviz" width="60" height="40"/> </a> 
+
 </p>
