@@ -57,7 +57,8 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a> 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ros2" width="40" height="40"/> </a> 
- <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="images/gzsim.png" alt="gzsim" width="40" height="40"/> </a> 
+<a href="https://micro.ros.org/" target="_blank" rel="noreferrer"> <img src="images/microros.png" alt="micro-ros" width="40" height="40"/> </a> 
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="images/gzsim.png" alt="gzsim" width="40" height="40"/> </a> 
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="images/rviz.png" alt="rviz" width="60" height="40"/> </a> 
 
 </p>
