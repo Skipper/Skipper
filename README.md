@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Leadclic Solutions.**
 
-- 🌱 I’m currently learning **JavaScript, Apex.**
+- 🌱 I’m currently learning **Ros2**
  
 - 💬 Ask me about **Android Studio Java, Swift, C, C++, C#, VBA, Adobe XD, MarvelApp y Proto.io.**
 
@@ -33,8 +33,11 @@
 <a href="https://www.trello.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> </a>
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.tinkercad.com" target="_blank" rel="noreferrer"> <img src="tinkercad-1.svg" alt="tinkercad" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+<a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+<a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="60" height="40"/> </a> 
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="ros2" width="40" height="40"/> </a> 
+
 </p>
 
 <h3 align="left">Database:</h3>
