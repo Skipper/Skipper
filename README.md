@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Leadclic Solutions.**
 
-- 🌱 I’m currently learning **Ros2**
+- 🌱 I’m currently learning **ROS2**
  
 - 💬 Ask me about **Android Studio Java, Swift, C, C++, C#, VBA, Adobe XD, MarvelApp y Proto.io.**
 
